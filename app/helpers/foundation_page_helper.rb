@@ -1,0 +1,2 @@
+module FoundationPageHelper
+end
